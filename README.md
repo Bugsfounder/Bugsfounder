@@ -3,7 +3,6 @@
 Hi, I'm **Manisha** a.k.a **bugsfounder** from 🇮🇳 India  
 A passionate **Software Engineer** and **Web Developer**
 
----
 
 ## 🏢 Work Experience
 
@@ -11,21 +10,18 @@ A passionate **Software Engineer** and **Web Developer**
 - Joined as Intern → Promoted to Full-Time  
 - Worked with: `React`, `Django`, `Redis`, `C++`, `Qt`, `CMake`, `IoT`, `ZMQ`
 
----
 
 ## 🎓 Education
 
 - Pursuing **MCA** from **Haridwar University**  
 - Learning **Java DSA** & **Data Science**
 
----
 
 ## 💡 Projects
 
 **Smart Career Path Recommender**  
 → ML-based project to guide students in choosing ideal careers
 
----
 
 ## 🌱 Focused On
 
@@ -33,7 +29,6 @@ A passionate **Software Engineer** and **Web Developer**
 - Building **Data Science Projects**  
 - Growing as a full-stack **Software Engineer**
 
----
 
 ## 💼 Tech Stack & Tools
 
@@ -61,7 +56,6 @@ A passionate **Software Engineer** and **Web Developer**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
 
 ## 🧰 Other Technologies I’ve Used
 
@@ -72,15 +66,13 @@ A passionate **Software Engineer** and **Web Developer**
 ![Makefile](https://img.shields.io/badge/Makefile-3F6E91?style=for-the-badge&logo=cmake&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
----
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BugsFounder-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bugsfounder/)
 
----
 
 ## 📊 GitHub Stats
 
 ![bugsfounder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&hide=jupyter%20notebook,makefile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&hide=jupyter%20notebook,markdown&layout=compact&theme=tokyonight)

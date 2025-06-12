@@ -83,4 +83,6 @@ A passionate **Software Engineer** and **Web Developer**
 ## 📊 GitHub Stats
 
 ![bugsfounder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&hide=jupyter%20notebook&layout=compact&theme=tokyonight)
+
+

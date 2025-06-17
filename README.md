@@ -72,11 +72,11 @@ _ML-powered project to guide students in choosing ideal careers_
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&hide=jupyter%20notebook,makefile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&hide=jupyter%20notebook,makefile,html,css,markdown&layout=compact&theme=tokyonight)
 
 ![bugsfounder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugsfounder&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugsfounder&theme=radical)](https://git.io/streak-stats&theme=tokyonight)
 
 
 

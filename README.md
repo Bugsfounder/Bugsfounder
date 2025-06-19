@@ -76,7 +76,7 @@ _ML-powered project to guide students in choosing ideal careers_
 
 ![bugsfounder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugsfounder&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bugsfounder&theme=radic)
 
 
 

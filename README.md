@@ -18,7 +18,7 @@ A passionate **Software Engineer** and **Web Developer**.
 
 - 🎓 Pursuing **MCA** at **Haridwar University**  
   → Learning **Java DSA** & **Data Science**
-
+- Java DSA Intern @SureProEd
 - 💡 Passionate about clean code, deep logic, and new tech  
 - 🚀 Exploring **AI + Full Stack + System Programming**
 

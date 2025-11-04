@@ -26,9 +26,9 @@ A passionate **Software Engineer** and **Web Developer**.
 
 ## 💡 Current Project
 
-**Smart Career Path Recommender**  
-_ML-powered project to guide students in choosing ideal careers_  
-<!-- [View Project](https://github.com/bugsfounder/smart-career-path-recommender) -->
+**FoodAndHunger**  
+Food and Hunger Project aims to reduce food waste and fight hunger by connecting surplus food sources (like restaurants, canteens, and events) with people in need through volunteers or NGOs.
+[View Project status](https://github.com/bugsfounder/foodandhunger) 
 
 <!-- You can add more projects here if you wish -->
 

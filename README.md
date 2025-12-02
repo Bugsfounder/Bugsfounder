@@ -68,24 +68,35 @@ Food and Hunger Project aims to reduce food waste and fight hunger by connecting
 ![Makefile](https://img.shields.io/badge/Makefile-3F6E91?style=flat&logo=cmake&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
-![Top Langs](https://nirzak-streak-stats.vercel.app/api/top-langs/?username=bugsfounder&layout=compact&theme=tokyonight)
+<div align="center">
 
-![bugsfounder's GitHub Stats](https://nirzak-streak-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)
+<!-- Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bugsfounder&theme=tokyonight" height="150" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bugsfounder&theme=tokyonight" height="150" alt="Most Commit Language" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bugsfounder&theme=tokyonight)
+<!-- Streak -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=bugsfounder&theme=tokyonight" height="150" alt="GitHub Streak" />
 
+<!-- Advanced Stats -->
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/bugsfounder?cardType=level&theme=radical&hide_border=true" height="150" alt="Awesome GitHub Stats" />
 
-## 🏆 Trophies
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bugsfounder&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bugsfounder&theme=tokyonight" alt="Contribution Graph" />
+
+</div>
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bugsfounder-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bugsfounder/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-bugsfounder-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bugsfounder/)
 
 
 _“Always open to collaboration and new opportunities!”_

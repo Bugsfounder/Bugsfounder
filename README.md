@@ -69,21 +69,18 @@ Food and Hunger Project aims to reduce food waste and fight hunger by connecting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 
 
-
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugsfounder&hide=jupyter%20notebook,makefile,html,css,markdown&layout=compact&theme=tokyonight)
+![Top Langs](https://nirzak-streak-stats.vercel.app/api/top-langs/?username=bugsfounder&layout=compact&theme=tokyonight)
 
-![bugsfounder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)
+![bugsfounder's GitHub Stats](https://nirzak-streak-stats.vercel.app/api?username=bugsfounder&show_icons=true&theme=tokyonight)
 
-<!-- streak is not visible have to fix it -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Bugsfounder&theme=tokyonight)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bugsfounder&theme=tokyonight)
 
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bugsfounder&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy&theme=tokyonight)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=bugsfounder&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🤝 Connect with Me

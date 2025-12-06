@@ -1,7 +1,5 @@
 <!-- GitHub Profile README -->
 
-
-<!-- bugsfounder (manisha) -->
 <h1 align="center">Let's Code the World Together</h1>
 
 <p align="center">

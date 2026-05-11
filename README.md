@@ -77,7 +77,7 @@ Food and Hunger Project aims to reduce food waste and fight hunger by connecting
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=bugsfounder&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bugsfounder&theme=tokyonight)
 
 | Top Languages                                                                                                                                                                   | Most Commit Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
